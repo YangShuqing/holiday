@@ -1,0 +1,233 @@
+{
+	"code": 0,
+	"holiday": {
+		"01-01": {
+			"holiday": true,
+			"name": "元旦",
+			"wage": 3,
+			"date": "2016-01-01"
+		},
+		"01-02": {
+			"holiday": true,
+			"name": "元旦",
+			"wage": 2,
+			"date": "2016-01-02"
+		},
+		"01-03": {
+			"holiday": true,
+			"name": "元旦",
+			"wage": 2,
+			"date": "2016-01-03"
+		},
+		"02-06": {
+			"holiday": false,
+			"name": "春节前调休",
+			"wage": 1,
+			"after": false,
+			"target": "春节",
+			"date": "2016-02-06"
+		},
+		"02-07": {
+			"holiday": true,
+			"name": "除夕",
+			"wage": 2,
+			"date": "2016-02-07"
+		},
+		"02-08": {
+			"holiday": true,
+			"name": "春节",
+			"wage": 3,
+			"date": "2016-02-08"
+		},
+		"02-09": {
+			"holiday": true,
+			"name": "初二",
+			"wage": 3,
+			"date": "2016-02-09"
+		},
+		"02-10": {
+			"holiday": true,
+			"name": "初三",
+			"wage": 3,
+			"date": "2016-02-10"
+		},
+		"02-11": {
+			"holiday": true,
+			"name": "初四",
+			"wage": 2,
+			"date": "2016-02-11"
+		},
+		"02-12": {
+			"holiday": true,
+			"name": "初五",
+			"wage": 2,
+			"date": "2016-02-12"
+		},
+		"02-13": {
+			"holiday": true,
+			"name": "初六",
+			"wage": 2,
+			"date": "2016-02-13"
+		},
+		"02-14": {
+			"holiday": false,
+			"name": "春节后调休",
+			"wage": 1,
+			"after": true,
+			"target": "春节",
+			"date": "2016-02-14"
+		},
+		"04-02": {
+			"holiday": true,
+			"name": "清明节",
+			"wage": 2,
+			"date": "2016-04-02"
+		},
+		"04-03": {
+			"holiday": true,
+			"name": "清明节",
+			"wage": 2,
+			"date": "2016-04-03"
+		},
+		"04-04": {
+			"holiday": true,
+			"name": "清明节",
+			"wage": 2,
+			"date": "2016-04-04"
+		},
+		"04-30": {
+			"holiday": true,
+			"name": "劳动节",
+			"wage": 2,
+			"date": "2016-04-30"
+		},
+		"05-01": {
+			"holiday": true,
+			"name": "劳动节",
+			"wage": 2,
+			"date": "2016-05-01"
+		},
+		"05-02": {
+			"holiday": true,
+			"name": "劳动节",
+			"wage": 2,
+			"date": "2016-05-02"
+		},
+		"06-09": {
+			"holiday": true,
+			"name": "端午节",
+			"wage": 2,
+			"date": "2016-06-09"
+		},
+		"06-10": {
+			"holiday": true,
+			"name": "端午节",
+			"wage": 2,
+			"date": "2016-06-10"
+		},
+		"06-11": {
+			"holiday": true,
+			"name": "端午节",
+			"wage": 2,
+			"date": "2016-06-11"
+		},
+		"06-12": {
+			"holiday": false,
+			"after": true,
+			"name": "端午节后调休",
+			"wage": 1,
+			"target": "端午节",
+			"date": "2016-06-12"
+		},
+		"09-15": {
+			"holiday": true,
+			"name": "中秋节",
+			"wage": 3,
+			"date": "2016-09-15"
+		},
+		"09-16": {
+			"holiday": true,
+			"name": "中秋节",
+			"wage": 2,
+			"date": "2016-09-16"
+		},
+		"09-17": {
+			"holiday": true,
+			"name": "中秋节",
+			"wage": 2,
+			"date": "2016-09-17"
+		},
+		"09-18": {
+			"holiday": false,
+			"after": true,
+			"name": "中秋节后调休",
+			"wage": 1,
+			"target": "中秋节",
+			"date": "2016-09-18"
+		},
+		"10-01": {
+			"holiday": true,
+			"name": "国庆节",
+			"wage": 3,
+			"date": "2016-10-01"
+		},
+		"10-02": {
+			"holiday": true,
+			"name": "国庆节",
+			"wage": 3,
+			"date": "2016-10-02"
+		},
+		"10-03": {
+			"holiday": true,
+			"name": "国庆节",
+			"wage": 2,
+			"date": "2016-10-03"
+		},
+		"10-04": {
+			"holiday": true,
+			"name": "国庆节",
+			"wage": 2,
+			"date": "2016-10-04"
+		},
+		"10-05": {
+			"holiday": true,
+			"name": "国庆节",
+			"wage": 2,
+			"date": "2016-10-05"
+		},
+		"10-06": {
+			"holiday": true,
+			"name": "国庆节",
+			"wage": 2,
+			"date": "2016-10-06"
+		},
+		"10-07": {
+			"holiday": true,
+			"name": "国庆节",
+			"wage": 2,
+			"date": "2016-10-07"
+		},
+		"10-08": {
+			"holiday": false,
+			"after": true,
+			"name": "国庆节后调休",
+			"wage": 1,
+			"target": "国庆节",
+			"date": "2016-10-08"
+		},
+		"10-09": {
+			"holiday": false,
+			"after": true,
+			"name": "国庆节后调休",
+			"wage": 1,
+			"target": "国庆节",
+			"date": "2016-10-09"
+		},
+		"12-31": {
+			"holiday": true,
+			"name": "元旦",
+			"wage": 2,
+			"date": "2016-12-31"
+		}
+	}
+}
