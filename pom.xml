@@ -12,9 +12,9 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>xyz.xiamang</groupId>
     <artifactId>holiday</artifactId>
-    <version>0.0.1-2021</version>
-    <name>节假日判断</name>
-    <description>中国节假日判断</description>
+    <version>0.0.2-2022</version>
+    <name>China Holiday Utils</name>
+    <description>中国节假日和工作日判断</description>
 
     <url>https://github.com/YangShuqing/holiday</url>
     <scm>
@@ -65,11 +65,15 @@
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-core</artifactId>
             <version>${logback.version}</version>
+            <scope>runtime</scope>
+            <optional>true</optional>
         </dependency>
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
             <version>${logback.version}</version>
+            <scope>runtime</scope>
+            <optional>true</optional>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
